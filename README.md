@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 I’m a young electronics enthusiast, programmer, and game developer from Poland. I’m the founder of **InGraw Co.**, where I design games, animations, electronic projects, and my own microcomputers.
 
-<!--
-**InGraw-Co/InGraw-Co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create projects that combine hardware and software — from custom SBCs to 3D-printed devices with magnetic levitation. My goal is **learning by creating** and sharing my work with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills
+
+* **Programming:** C++, HTML, Python
+* **Game & Animation Development:** UE5, Blender, Scratch, (sometimes C++)
+* **Electronics & Hardware:** PCB design including microcontrollers and SBCs, schematics creation, electronics troubleshooting and repair
+* **Tools:** Unreal Engine 5, Adobe Substance Painter, Blender, EasyEDA, Arduino IDE, Code::Blocks, Visual Studio / VS Code, Godot, Affinity
+
+---
+
+## 📫 Contact
+
+* **Main Email:** [mateuszlademann8@gmail.com](mailto:mateuszlademann8@gmail.com)
+* **Company Email:** [ingrawco@outlook.com](mailto:ingrawco@outlook.com)
+
+---
+
+## 🌐 About Me
+
+* Passionate about **electronics, programming, and learning through projects**
+* Constantly experimenting with new technologies and pushing boundaries
+* Sharing knowledge on forums (e.g., Forbot)
+* Recording (sometimes weird) videos on YouTube
+* Always using **high-quality components** — cheap alternatives usually cost more time and frustration 😎
+
+---
+
+⭐ If you enjoy my projects, follow my GitHub to keep up with **InGraw Co. innovations**!
