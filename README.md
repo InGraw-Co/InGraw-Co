@@ -1,6 +1,6 @@
 # 👋 I’m a young electronics enthusiast, programmer, and game developer from Poland. I’m the founder of **InGraw Co.**, where I design games, animations, electronic projects, and my own microcomputers.
 
-I create projects that combine hardware and software — from custom SBCs to 3D-printed devices with magnetic levitation. My goal is **learning by creating** and sharing my work with the community.
+I create projects that combine hardware and software — from custom SBCs to 3D-printers. My goal is **learning by creating** and sharing my work with the community.
 
 ---
 
