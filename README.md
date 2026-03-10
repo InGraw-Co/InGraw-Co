@@ -6,10 +6,9 @@ I create projects that combine hardware and software — from custom SBCs to 3D-
 
 ## 💻 My Skills
 
-* **Programming:** C++, HTML, Python
-* **Game & Animation Development:** UE5, Blender, Scratch, (sometimes C++)
+* **Programming:** C++, Python, HTML
 * **Electronics & Hardware:** PCB design including microcontrollers and SBCs, schematics creation, electronics troubleshooting and repair
-* **Tools:** Unreal Engine 5, Affinity, Blender, EasyEDA, Arduino IDE, Code::Blocks, Visual Studio / VS Code, Godot, Unity
+* **Tools:** Unreal Engine 5, Affinity, Blender, EasyEDA, Arduino IDE, Code::Blocks, Visual Studio / VS Code / VSCodium, Godot, Unity
 
 ---
 
