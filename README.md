@@ -10,7 +10,7 @@ Getting a computer I designed myself to boot Linux and run a graphical desktop w
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** C++, Python, GDScript, HTML, Shell
+- **Programming & Scripting:** C++, Python, GDScript, Shell, HTML *(primarily AI-agent development)*
 - **Hardware:** PCB design, ARM SoCs, microcontrollers, DDR memory, eMMC, electronics troubleshooting
 - **Embedded Linux:** U-Boot, Buildroot, Linux kernel, device trees, drivers, Wayland, Qt
 - **Interfaces:** SPI, I²C, UART, USB, HDMI
